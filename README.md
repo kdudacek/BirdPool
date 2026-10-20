@@ -1,2 +1,2 @@
 # BirdPool
-Code for bird pool based on Atmel MCU.
+Hardware files for bird pool based on Atmel MCU.
