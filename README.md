@@ -1,2 +1,2 @@
 # BirdPool
-Hardware files for bird pool based on Atmel MCU.
+Hardware files for the bird pool based on Atmel MCU.
